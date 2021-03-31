@@ -18,7 +18,7 @@
         <maven.complier.plugin.version>3.8.1</maven.complier.plugin.version>
         <maven.jar.plugin.version>3.1.2</maven.jar.plugin.version>
         <maven.dependency.plugin.version>2.5.1</maven.dependency.plugin.version>
-        <guava.version>28.1-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
